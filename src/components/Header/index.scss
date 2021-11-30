@@ -1,0 +1,18 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.logo {
+  img {
+    width: 26px;
+    margin-right: 5px;
+    vertical-align: middle;
+  }
+  span {
+    color: #fff;
+    font-size: 22px;
+    vertical-align: middle;
+  }
+}
