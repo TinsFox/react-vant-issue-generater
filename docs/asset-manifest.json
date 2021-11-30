@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-vant-issue-generater/static/css/main.449a5118.chunk.css",
+    "main.js": "/react-vant-issue-generater/static/js/main.79595eb9.chunk.js",
+    "main.js.map": "/react-vant-issue-generater/static/js/main.79595eb9.chunk.js.map",
+    "runtime-main.js": "/react-vant-issue-generater/static/js/runtime-main.954c70d1.js",
+    "runtime-main.js.map": "/react-vant-issue-generater/static/js/runtime-main.954c70d1.js.map",
+    "static/css/2.116491fa.chunk.css": "/react-vant-issue-generater/static/css/2.116491fa.chunk.css",
+    "static/js/2.f1916651.chunk.js": "/react-vant-issue-generater/static/js/2.f1916651.chunk.js",
+    "static/js/2.f1916651.chunk.js.map": "/react-vant-issue-generater/static/js/2.f1916651.chunk.js.map",
+    "static/js/3.6043f128.chunk.js": "/react-vant-issue-generater/static/js/3.6043f128.chunk.js",
+    "static/js/3.6043f128.chunk.js.map": "/react-vant-issue-generater/static/js/3.6043f128.chunk.js.map",
+    "index.html": "/react-vant-issue-generater/index.html",
+    "static/css/2.116491fa.chunk.css.map": "/react-vant-issue-generater/static/css/2.116491fa.chunk.css.map",
+    "static/css/main.449a5118.chunk.css.map": "/react-vant-issue-generater/static/css/main.449a5118.chunk.css.map",
+    "static/js/2.f1916651.chunk.js.LICENSE.txt": "/react-vant-issue-generater/static/js/2.f1916651.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.954c70d1.js",
+    "static/css/2.116491fa.chunk.css",
+    "static/js/2.f1916651.chunk.js",
+    "static/css/main.449a5118.chunk.css",
+    "static/js/main.79595eb9.chunk.js"
+  ]
+}
